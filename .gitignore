@@ -1,3 +1,12 @@
+# Zip files
+*.zip
+
+# Genomic files formats
+*.bcf
+*.vcf
+*.bcf.gz
+*.vcf.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
